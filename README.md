@@ -1,8 +1,8 @@
 # Eat'n Split
 
-An initial project created to learn React.js
+An initial project created to learn React.js.
 
-To start the project, input the command
+To start the project, input the command:
 
 ```
 npm start
